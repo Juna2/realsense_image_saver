@@ -1,0 +1,3 @@
+<launch>
+  <node name="ur_robot" pkg="realsense_image_saver" type="ur_robot.py" output="screen"/>
+</launch>

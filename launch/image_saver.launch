@@ -1,0 +1,3 @@
+<launch>
+  <node name="image_saver" pkg="realsense_image_saver" type="image_saver.py" output="screen"/>
+</launch>
